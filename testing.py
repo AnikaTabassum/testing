@@ -28,7 +28,7 @@ def takeInput():
 		if inx==2:
 			printRobust()
 		if inx==0:
-			printint("exiting")
+			print("exiting")
 			sys.exit()
 
 def makeValues(lower,upper,val):
